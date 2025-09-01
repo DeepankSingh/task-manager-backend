@@ -140,6 +140,6 @@ This project is licensed under the **MIT License** – you can use and modify it
 ## ✨ Author
 
 👨‍💻 Developed by **\Deepank Singh**
-📧 Email: singhdeepank9@gmail.com(mailto:your.email@example.com)
+📧 Email: [  singhdeepank9@gmail.com](mailto:your.email@example.co)
 🔗 [LinkedIn](https://www.linkedin.com/in/deepank-singh/) | [GitHub](https://github.com/DeepankSingh)
 
